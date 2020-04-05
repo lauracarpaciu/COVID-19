@@ -11,18 +11,4 @@ Content
 Each row contains report from each region/location for each day
 Each column represents the number of cases reported from each country/region
 
-Inspiration
-To see how the epidemic spread worldwide in such a short time
-
-About this file
-The file contains the cumulative count of confirmed, death and recovered cases of COVID-19 from different countries from 22nd January 2020
-Columns
-Province/StateProvince/State
-Country/RegionCountry/Region
-LatLatitude of the location
-LongLongitude of the location
-DateDate of cumulative report
-ConfirmedCumulative number of confirmed cases till this day
-DeathsCumulative number of deaths till this day
-RecoveredCumulative number of recovered cases till this day
 
