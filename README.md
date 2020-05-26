@@ -13,6 +13,7 @@ As of 30 January 2020, approximately 8,243 cases have been confirmed
 Content
 
 Each row contains report from each region/location for each day
+
 Each column represents the number of cases reported from each country/region
 
 
